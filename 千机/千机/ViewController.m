@@ -17,6 +17,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     [self.view setBackgroundColor:[UIColor yellowColor]];
+    NSLog(@"adasd");
     
 }
 
